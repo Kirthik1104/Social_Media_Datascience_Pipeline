@@ -1,5 +1,4 @@
 # Social-Media-Datascience-Pipeline
-# Social-Media-Datascience-Pipeline
 
 # Project: Interactive Dashboard and Analysis for Gun Culture and Hate Speech on Social Media
 
