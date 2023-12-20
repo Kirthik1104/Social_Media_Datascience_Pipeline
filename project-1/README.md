@@ -12,7 +12,7 @@ This repository contains Python scripts designed to collect data from Reddit and
 
 The `reddit.py` script collects data from Reddit, focusing on posts and comments within the "guns" and "firearms" subreddits. It stores the acquired data in a PostgreSQL database and allows for exporting to a CSV file.
 
-#### Usage
+####Usage
 
 To initiate Reddit data collection: `python3 reddit.py`
 
