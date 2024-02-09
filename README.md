@@ -29,7 +29,7 @@ This project delves into analyzing moderate hate speech on Reddit and 4chan, enh
 - Generation of graphs for visual insights.
 - Conducted sentiment analysis to deepen understanding of the dataset.
 
-### Project 3: Social Media Data Science Pipeline
+### Project 3: Social Media Data Science Pipeline: Creating Interactive dashboard in `Streamlit.io`
 
 #### Overview
 This project builds an interactive dashboard and performs in-depth analysis of social media data related to gun culture and hate speech.
@@ -55,5 +55,3 @@ This project builds an interactive dashboard and performs in-depth analysis of s
 3. **Social Media Data Science Pipeline**:
    - Run `streamlit run dashboard.py` to access the interactive dashboard.
    - Open `Full Analysis.ipynb` in Jupyter environment for detailed analysis and visualizations.
-
-This README provides an overview of the entire workflow, guiding users on setting up and running the projects for social media data collection and analysis.
