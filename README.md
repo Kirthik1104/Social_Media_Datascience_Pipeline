@@ -16,7 +16,7 @@ This project focuses on collecting data from Reddit and 4chan, specifically targ
 2. **4chan.py**: Gathers posts from specified boards and threads on 4chan, storing the data in a PostgreSQL database and facilitating export to CSV for further analysis.
 
 #### Scheduler Configuration
-The **scheduler.py** script automates the data collection process using nohup and Python's schedule library, ensuring regular updates to the dataset.
+The **scheduler.py** script automates the data collection process using nohup(`nohup python3 scheduler.py`) and Python's schedule library, ensuring regular updates to the dataset.
 
 ### Project 2: Moderate Hate Speech Analysis
 
